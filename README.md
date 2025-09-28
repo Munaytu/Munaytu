@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Munaytu!
+# 👋 ¡Hola, PrometeoDEV!
 
 Me apasiona aprender sobre código y tecnología. Aunque me considero solo un aprendiz, disfruto explorando nuevas herramientas, lenguajes y formas de resolver problemas.  
 La blockchain de Bitcoin y la libertad financiera son temas que realmente me inspiran y motivan a seguir creciendo.  
